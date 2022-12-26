@@ -10,6 +10,10 @@ root.render(
     <div className="App">
       <h1>Weather App</h1>
       <App />
+      <p>
+        <a href="https://github.com/peevaliz/react-project">Open-source code</a>
+        , by Yelyzaveta Pieieva
+      </p>
     </div>
   </React.StrictMode>
 );
